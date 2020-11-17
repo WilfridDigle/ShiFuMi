@@ -161,7 +161,7 @@ body {
 
 /* Ajout de la partie game */
 #game {
-  background-image: url(../IMG/autrering.png);
+  background-image: url(../img/autrering.png);
   background-size: cover;
   background-repeat: no-repeat;
   margin: 0;
